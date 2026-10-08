@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valmikmagar&label=Profile%20views&color=0e75b6&style=flat" alt="valmikmagar" /> </p>
 
-- 🌱 I’m currently learning **Java, Spring, Hibernate, Springboot, Mysql, ReactJS**
+- 🌱 I have strong foundation of **Java, Spring, Hibernate, Spring boot, MySQL, ReactJS**
 
 - 📫 How to reach me **valmikmagar95@gmail.com**
 
